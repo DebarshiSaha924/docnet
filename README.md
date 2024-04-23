@@ -35,7 +35,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/xanmoy/docnet.git
-cd gemini-clone-nextjs
+cd docnet
 ```
 
 **Installation**
