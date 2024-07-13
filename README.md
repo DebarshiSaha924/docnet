@@ -59,7 +59,7 @@ Once DocNet is up and running, you can interact with it using natural language i
 
 ## Support
 
-If you encounter any issues or have any questions about DocNet, please don't hesitate to contact us at [support@example.com]. We're here to help!
+If you encounter any issues or have any questions about DocNet, please don't hesitate to contact us at [debarshi924@gmail.com]. We're here to help!
 
 ## Contributing
 
